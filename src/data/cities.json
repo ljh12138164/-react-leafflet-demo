@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Guilin",
+      "country": "China",
+      "emoji": "cn",
+      "date": "2024-05-29T08:10:50.369Z",
+      "notes": "",
+      "position": {
+        "lat": "24.38924769306099",
+        "lng": "110.39153398563698"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Loudi",
+      "country": "China",
+      "emoji": "cn",
+      "date": "2024-05-30T02:20:54.576Z",
+      "notes": "",
+      "position": {
+        "lat": "27.77811368102451",
+        "lng": "111.03139236097458"
+      },
+      "id": 2
+    }
+  ]
+}
